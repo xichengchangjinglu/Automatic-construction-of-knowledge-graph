@@ -7,4 +7,4 @@ First step, prepare to extract keywords for natural disaster theory. In the seco
 ## Sample data
 台风威马逊，2014年第9号超强台风威马逊三次强势登陆我国，成为建国以来登陆中国最强台风。造成海南、广东、广西的59个县市区、742.3万人、468.5千公顷农作物受灾，直接经济损失约为235.5亿元，并导致南宁发生海变，城市内部被淹，损毁严重。
 ## Experimental result
-![result](Automatic-construction-of-knowledge-graph\img\result.png "experiment result")
+![result](https://github.com/xichengchangjinglu/Automatic-construction-of-knowledge-graph/blob/main/img/result.png "experiment result")
